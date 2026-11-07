@@ -1,0 +1,6 @@
+*:Zone.Identifier
+__pycache__/
+*.pyc
+checkpoints/
+spark-warehouse/
+.venv/
